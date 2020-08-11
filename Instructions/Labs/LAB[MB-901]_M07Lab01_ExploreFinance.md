@@ -59,8 +59,8 @@ Navigieren Sie zu **Module > Demo-Daten**, und klicken Sie auf **Daten generiere
 
 17. Wählen Sie **Zentralbank der Russischen Föderation** aus
 
-18. Geben Sie im Feld **Wechselkursanbieter** „Zentralbank der Russischen Föderation“, ein
-    die Russische Föderation**
+18. Geben Sie im Feld **Wechselkursanbieter** **„Zentralbank der Russischen Föderation“**, ein
+    die **Russische Föderation**
 
 19. Klicken Sie auf **OK**.
 

@@ -101,7 +101,7 @@ Bitte erstellen Sie eine Bestellung für Acme Office Supplies, die heute ausgeli
 1. Wählen Sie **Beschaffung** > **Einkaufsbestellungen** > **Alle Einkaufsbestellungen** aus.
 1. Klicken Sie auf **Neu**.
 1. **Anbieterkonto:** Wählen Sie **1001** (Acme Büromaterial) aus.
-1. **Lieferdatum:** Wählen Sie, falls erforderlich, im Feld **Lieferdatum (Delivery date) **das aktuelle Datum aus. (Das sollte der Standardwert sein).
+1. **Lieferdatum:** Wählen Sie, falls erforderlich, im Feld **Lieferdatum (Delivery date)** das aktuelle Datum aus. (Das sollte der Standardwert sein).
 1. Klicken Sie auf **OK**
 
 ### Artikel zur Einkaufsbestellung hinzufügen

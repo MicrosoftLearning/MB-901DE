@@ -28,11 +28,11 @@ lab:
 1. Geben Sie im Feld **Nachname** den Text **Azadi** ein.
 1. Geben Sie dann im Feld **Position** die Bezeichnung **Xbox X-Series-Entwicklungsmanager** ein.
 1. Tragen Sie in das Feld **Telefon (geschäftlich)** die Nummer **949-555-1212** ein.
-1. Geben Sie in das Feld **Adresse 1: **Feld **Straße 1**, **1 Microsoft Way** eintragen.
+1. Geben Sie in das Feld **Adresse 1:** Feld **Straße 1**, **1 Microsoft Way** eintragen.
 1. Geben Sie in das Feld **Adresse 1: Stadt** den Text **Redmond** ein.
     - **Hinweis:** Wenn Demo-Daten hochgeladen wurden, wird das Formular **Adressvorschläge** angezeigt. Klicken Sie auf **OK**. Die Felder **Adresse 1** werden automatisch ausgefüllt. 
 1. Geben Sie in das Feld **Adresse 1: Bundesland/Kanton** den Text **WA** ein.
-1. Geben Sie in das Feld **Adresse 1: **im Feld **Postleitzahl** die Postleitzahl **98007** ein.
+1. Geben Sie in das Feld **Adresse 1:** im Feld **Postleitzahl** die Postleitzahl **98007** ein.
 1. Geben Sie in das Feld **Adresse 1: Land/Region** das Land **USA** ein.
 1. Geben Sie in das Feld **E-Mail** Ihren E-Mail-Alias ein.
 1. Klicken Sie auf **Speichern**.
