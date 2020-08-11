@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab 01: Dynamics 365 Finance erkunden'
-    module: 'Modul 10: Einführung in Dynamics 365 Finance'
+    module: 'Modul 07: Einführung in Dynamics 365 Finance'
 ---
 
 # MB-901: Grundlagen von Dynamics 365 
-## Modul 10, Lab 1 – Dynamics 365 Finance erkunden 
+## Modul 7, Lab 1 – Dynamics 365 Finance erkunden 
 
 
 **Voraussetzungen**: Führen Sie vor dem Ausführen der Schritte dieses Lab die folgenden

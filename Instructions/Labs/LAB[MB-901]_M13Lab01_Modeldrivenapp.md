@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab 01: Erstellen Sie Ihre erste modellgesteuerte App von Grund auf neu'
-    module: 'Module 04: Verbinden und analysieren Sie Ihre Dynamics 365-Daten'
+    module: 'Module 13: Verbinden und analysieren Sie Ihre Dynamics 365-Daten'
 ---
 
 # MB-901: Grundlagen von Dynamics 365
-## Modul 4, Lab 1: Erstellen Sie Ihre erste modellgesteuerte App von Grund auf neu
+## Modul 13, Lab 1: Erstellen Sie Ihre erste modellgesteuerte App von Grund auf neu
 
 **Szenario:** Sie müssen die Erstellung einer modellgesteuerten App mithilfe einer der Standardentitäten vereinfachen, die in Ihrer Power Apps-Umgebung verfügbar sind. Modellgesteuerte Apps werden nicht in der mobilen Power Apps-App ausgeführt. Stattdessen führen Sie eine modellgesteuerte App auf einem mobilen Gerät entweder über die Dynamics 365 Mobile-App oder im Webbrowser des Smartphones aus.
 

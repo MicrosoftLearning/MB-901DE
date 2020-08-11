@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab 01: Funktionen von Dynamics 365 Sales entdecken'
-    module: 'Modul 05: Einführung in Dynamics 365 Sales'
+    module: 'Modul 03: Einführung in Dynamics 365 Sales'
 ---
 
 # MB-901: Dynamics 365 Sales
-## Modul 5, Lab 1 – Funktionen von Dynamics 365 Sales entdecken
+## Modul 3, Lab 1 – Funktionen von Dynamics 365 Sales entdecken
 
 **Voraussetzungen:** Führen Sie die folgenden Aufgaben aus, bevor Sie die Schritte dieses Labs ausführen:
 

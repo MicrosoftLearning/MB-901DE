@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab 01: Untersuchen Sie Sicherheitsrollen in modellgesteuerten Dynamics 365-Anwendungen'
-    module: 'Modul 03: Informationen zur Sicherheit in Dynamics 365'
+    module: 'Modul 12: Informationen zur Sicherheit in Dynamics 365'
 ---
 
 # MB-901: Grundlagen von Dynamics 365 
-## Modul 3, Lab 1 – Untersuchen von Sicherheitsrollen in modellgesteuerten Dynamics 365-Anwendungen
+## Modul 12, Lab 1 – Untersuchen von Sicherheitsrollen in modellgesteuerten Dynamics 365-Anwendungen
 
 **Szenario:** Als Systemadministrator müssen Sie herausfinden, welche Sicherheitsrollen von Dynamics 365 sofort verfügbar sind.
 

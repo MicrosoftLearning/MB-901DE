@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab 01: Entdecken Sie Dynamics 365 Supply Chain Management'
-    module: 'Modul 11: Einführung in das Dynamics 365 Supply Chain Management'
+    module: 'Modul 08: Einführung in das Dynamics 365 Supply Chain Management'
 ---
 
 # MB-901: Grundlagen von Dynamics 365 
-## Modul 11, Lab 1 – Entdecken Sie das Supply Chain Management von Dynamics 365
+## Modul 8, Lab 1 – Entdecken Sie das Supply Chain Management von Dynamics 365
 
 ### Ein Produkt erstellen
 

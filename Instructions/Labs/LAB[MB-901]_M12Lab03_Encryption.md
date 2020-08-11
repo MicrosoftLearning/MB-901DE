@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Lab 03: Erhöhen Sie die Sicherheit, indem Sie Ihre Daten verschlüsseln'
-    module: 'Modul 03: Informationen zur Sicherheit in Dynamics 365'
+    module: 'Modul 12: Informationen zur Sicherheit in Dynamics 365'
 ---
 
 # MB-901: Grundlagen von Dynamics 365
-## Modul 3, Lab 3: Erhöhen Sie die Sicherheit, indem Sie Ihre Daten verschlüsseln
+## Modul 12, Lab 3: Erhöhen Sie die Sicherheit, indem Sie Ihre Daten verschlüsseln
 
 **Szenario:** Als Systemadministrator müssen Sie den Organisationsverschlüsselungsschlüssel ändern und kopieren.
 
