@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 01: Erstellen Sie Ihre erste modellgesteuerte App von Grund auf neu'
-    module: 'Module 13: Verbinden und analysieren Sie Ihre Dynamics 365-Daten'
+    module: 'Module 13: Verbinden und Analysieren Ihrer Dynamics 365-Daten'
 ---
 
 # MB-901: Grundlagen von Dynamics 365

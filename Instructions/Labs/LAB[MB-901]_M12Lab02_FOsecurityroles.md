@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 02: Sicherheitsrollen in Dynamics 365 Finance and Operations-Apps untersuchen'
-    module: 'Modul 12: Informationen zur Sicherheit in Dynamics 365'
+    module: 'Modul 12: Anerkennen von Sicherheit in Dynamics 365'
 ---
 
 # MB-901: Grundlagen von Dynamics 365

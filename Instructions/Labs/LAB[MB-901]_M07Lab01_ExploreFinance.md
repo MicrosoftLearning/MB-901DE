@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 01: Dynamics 365 Finance erkunden'
-    module: 'Modul 07: Einführung in Dynamics 365 Finance'
+    module: 'Modul 07: Einführung in Dynamics 365 Finance'
 ---
 
 # MB-901: Grundlagen von Dynamics 365 
@@ -20,8 +20,7 @@ Sie müssen das Unternehmen ändern auf **USMF.** Um sich bei der Instanz der Dy
 Wenn Ihre Umgebung keine Demo-Daten enthält, befolgen Sie die Anweisungen.
 Anweisungen:
 
-Navigieren Sie zu **Module > Demo-Daten**, und klicken Sie auf **Daten generieren**. Klicken Sie dann auf
-    **Sie auf „Ok“.**
+Navigieren Sie zu **Module > Demo-Daten**, und klicken Sie auf **Daten generieren**. Klicken Sie dann auf **OK**.
 
 ### Importieren von Wechselkursen
 
@@ -41,13 +40,13 @@ Navigieren Sie zu **Module > Demo-Daten**, und klicken Sie auf **Daten generiere
 
 8.  Schließen Sie das Formular „Wechselkurse“.
 
-9.  Schließen Sie das Formular für Wechselkurstypen
+9.  Schließen Sie das Formular für Wechselkurstypen.
 
 10. Wechseln Sie zu **Hauptbuch > Währungen > Wechselkursanbieter konfigurieren**.
 
 11. Klicken Sie auf **Neu**.
 
-12. Wählen Sie **Zentralbank der Russischen Föderation** aus
+12. Wählen Sie **Zentralbank der Russischen Föderation** aus.
 
 13. Klicken Sie auf **OK**.
 
@@ -57,10 +56,9 @@ Navigieren Sie zu **Module > Demo-Daten**, und klicken Sie auf **Daten generiere
 
 16. Geben Sie im Feld **Wechselkurstyp** „GTL-EXCH“ ein, oder wählen Sie dies aus.
 
-17. Wählen Sie **Zentralbank der Russischen Föderation** aus
+17. Wählen Sie **Zentralbank der Russischen Föderation** aus.
 
-18. Geben Sie im Feld **Wechselkursanbieter** **„Zentralbank der Russischen Föderation“**, ein
-    die **Russische Föderation**
+18. Geben Sie im Feld **Wechselkursanbieter** **Zentralbank der Russischen Föderation** ein, oder wählen Sie dies aus.
 
 19. Klicken Sie auf **OK**.
 
@@ -70,9 +68,9 @@ Navigieren Sie zu **Module > Demo-Daten**, und klicken Sie auf **Daten generiere
 
 22. Klicken Sie auf **Wechselkurse**.
 
-23. Beachten Sie die importierten Werte
+23. Beachten Sie die importierten Werte.
 
-24. Schließen Sie alle Formulare
+24. Schließen Sie alle Formulare.
 
 ### Eine Bestellung erstellen, einen Produktzugang buchen
 

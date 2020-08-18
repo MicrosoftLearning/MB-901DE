@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 01: Entdecken Sie Dynamics 365 Supply Chain Management'
-    module: 'Modul 08: Einführung in das Dynamics 365 Supply Chain Management'
+    module: 'Modul 08: Einführung in Dynamics 365 Supply Chain Management'
 ---
 
 # MB-901: Grundlagen von Dynamics 365 
@@ -101,7 +101,7 @@ Bitte erstellen Sie eine Bestellung für Acme Office Supplies, die heute ausgeli
 1. Wählen Sie **Beschaffung** > **Einkaufsbestellungen** > **Alle Einkaufsbestellungen** aus.
 1. Klicken Sie auf **Neu**.
 1. **Anbieterkonto:** Wählen Sie **1001** (Acme Büromaterial) aus.
-1. **Lieferdatum:** Wählen Sie, falls erforderlich, im Feld **Lieferdatum (Delivery date)** das aktuelle Datum aus. (Das sollte der Standardwert sein).
+1. **Lieferdatum:** Wählen Sie, falls erforderlich, im Feld **Lieferdatum** das aktuelle Datum aus. (Das sollte der Standardwert sein).
 1. Klicken Sie auf **OK**
 
 ### Artikel zur Einkaufsbestellung hinzufügen
