@@ -9,6 +9,8 @@ lab:
 
 **Szenario:** Als Systemadministrator müssen Sie den Organisationsverschlüsselungsschlüssel ändern und kopieren.
 
+**Hinweis:**  Da für dieses Lab Administratorzugriff auf die Umgebung erforderlich ist, muss dieses Lab vom Kursleiter demonstriert werden.
+
 ## Anweisungen
 
 1. Navigieren Sie zum Power Platform Admin Center.  

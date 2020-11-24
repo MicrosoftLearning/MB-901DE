@@ -1,19 +1,11 @@
 ---
 lab:
     title: 'Lab 01: Entdecken Sie Dynamics 365 Customer Service'
-    module: 'Modul 05: Einführung in Dynamics 365 Customer Service'
+    module: 'Modul 05: Einführung in Dynamics 365 Customer Service'
 ---
 
-# MB-901: Grundlagen von Dynamics 365 
+# MB-901: Dynamics 365 – Grundlagen 
 ## Modul 5, Lab 1 – Entdecken von Dynamics 365 Customer Service 
-
-**Voraussetzungen:** Führen Sie die folgenden Aufgaben aus, bevor Sie die Schritte dieses Labs ausführen: 
-
-**Optional:**
-1. Wechseln Sie in der Dynamics 365-Instanz zu **Einstellungen**, und wählen Sie > **Datenverwaltung** aus. 
-1. Wählen Sie **Beispieldaten** aus. 
-1. Wenn die Beispieldaten nicht installiert sind, wählen Sie **Beispieldaten installieren** aus. Es kann einige Minuten dauern, bis die Beispieldaten angezeigt werden. Sie können die Anwendung jedoch während der Installation weiter verwenden. 
-1. Wählen Sie **Schließen** aus. 
 
 **Szenario:**
 Als Kundendienstmitarbeiter müssen Sie Ihre Kundenanforderungen und -probleme verfolgen, indem Sie Supportanfragen in Dynamics 365 Customer Service erstellen. Wenn ein Debitor den Support mit einer Frage oder einem Problem kontaktiert, können Sie schnell überprüfen, ob eine Anfrage vorliegt, oder eine neue Anfrage öffnen und das Problem verfolgen. Sie können eine Anfrage auch eskalieren, neu zuweisen oder wieder in die Servicewarteschlange stellen, wenn Sie nicht über genügend Informationen oder Zeit verfügen, um an ihr zu arbeiten.
@@ -26,13 +18,12 @@ Um Ihnen bei der Auswahl des richtigen Status einer Anfrage zu helfen, hat Ihr A
 
 ### Erstellen einer Anfrage
 
-1. Nagivieren Sie im **Kundenservicehub** zu **Service** > **Anfragen**.
+1. Nagivieren Sie im **Kundenservicehub** zu **Service** > **anfragen**.
 1. Wählen Sie **Neue Anfrage** aus.
 1. Geben Sie im Feld **Anfragetitel** den Text **Seahorse Smart Watch** ein.
-1. Wählen Sie dann im Feld **Kunde** den Kunden **Fabrikam** aus. 
+1. Klicken Sie im Feld **Kunde** auf den Kunden **Fabrikam** und wählen Sie einen vorhandenen Datensatz für das Konto aus.
 1. Geben Sie im Feld **Beschreibung** den Text **Problem mit der Smartwatch** ein.
 1. Klicken Sie auf die Registerkarte **Details**.
-1. Klicken Sie im Feld **Kontakt** auf die Schaltfläche **Kontaktsuche**, und wählen Sie einen vorhandenen Kontakt für die Anfrage aus oder klicken Sie auf **Neu** in den Inline-Suchergebnissen, um einen neuen Kontaktdatensatz zu erstellen.
 1. Klicken Sie auf **Speichern**.
 1. Um Ihr Gespräch mit dem Kunden nachzuverfolgen, klicken Sie im Abschnitt **Zeitachse** auf **+**, um Informationen und Aktivitäten hinzuzufügen.
 1. Klicken Sie auf **Notiz**.
@@ -51,7 +42,7 @@ Um Ihnen bei der Auswahl des richtigen Status einer Anfrage zu helfen, hat Ihr A
 
 Stellen Sie vor dem Lösen einer Anfrage sicher, dass alle Anfrageaktivitäten geschlossen sind. Andernfalls erhalten Sie eine Meldung, dass Sie noch offene Aktivitäten im Zusammenhang mit der Anfrage haben. Diese werden abgebrochen, wenn die Anfrage gelöst ist.
 
-1. Gehen Sie zu **Service** > **Anfragen**.
+1. Gehen Sie zu **Service** > **anfragen**.
 1. Öffnen Sie die Anfrage **Seahorse Smart Watch** in der Liste der aktiven Anfragen, um sie abzuschließen.
 1. Wählen Sie auf der Befehlsleiste **Anfrage abschließen** aus.
 1. Wählen Sie im Dialogfeld **Anfrage abschließen** in der Liste **Abschlusstyp** die Option **Problem behoben** aus.
