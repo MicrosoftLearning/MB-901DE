@@ -14,7 +14,7 @@ lab:
 ### Neuen Kontakt erstellen
 
 1. Navigieren Sie im **Dynamics 365 Sales Hub** zu **Kunden** > , und klicken Sie auf **Kontakte**.
-1. Klicken Sie auf **Neu**.
+1. Wählen Sie **Neu** aus.
 1. Geben Sie im Feld **Vorname** den Namen **Cameron** ein.
 1. Geben Sie im Feld **Nachname** den Text **Azadi** ein.
 1. Geben Sie dann im Feld **Position** die Bezeichnung **Xbox X-Series-Entwicklungsmanager** ein.
@@ -28,36 +28,36 @@ lab:
 1. Geben Sie in das Feld **Adresse 1:** im Feld **Postleitzahl** die Postleitzahl **98007** ein.
 1. Geben Sie in das Feld **Adresse 1: Land/Region** das Land **USA** ein.
 
-1. Klicken Sie auf **Speichern und schließen**.
+1. Wählen Sie **Speichern und schließen** aus.
 
 ### Einen neuen Lead erstellen
 
 1. Navigieren Sie im **Dynamics 365 Sales Hub** zu **Vertrieb** > **Leads**.
-1. Klicken Sie auf **Neu**.
+1. Wählen Sie **Neu** aus.
 1. Geben Sie in das Feld **Thema** den Text **Mag unsere Xbox-Produkte** ein.
 1. Geben Sie im Feld **Vorname** den Namen **Cameron** ein.
 1. Geben Sie im Feld **Nachname** den Text **Azadi** ein.
 1. Geben Sie im Feld **Unternehmen** den Namen **Microsoft** ein.
 
-1. Klicken Sie auf **Speichern**.
+1. Wählen Sie **Speichern** aus.
 
 ### Einem neuen Lead Notizen hinzufügen
 
 1. Klicken Sie im Abschnitt **Zeitplanung** auf **+**, um eine neue **Notiz** hinzufügen.
 1. Geben Sie im Feld **Titel** **Besprechung mit Cameron bezüglich der Xbox X-Serie** ein.
-1. Klicken Sie auf **Notiz hinzufügen**.
+1. Wählen Sie **Notiz hinzufügen** aus.
 1. Klicken Sie im Abschnitt **Zeitachse** auf **+**, um eine weitere **Notiz** mit Anlage hinzuzufügen.
 1. Geben Sie im Feld **Titel** **Produktinformationen zur Xbox X-Serie** ein.
-1. Klicken Sie auf das Anlagesymbol, und wählen Sie das Word-Dokument aus, das Sie zu Beginn dieses Labs erstellt haben.
-1. Klicken Sie auf **Notiz hinzufügen**.
+1. Wählen Sie das Anlagesymbol aus, und wählen Sie das Word-Dokument aus, das Sie zu Beginn dieses Labs erstellt haben.
+1. Wählen Sie **Notiz hinzufügen** aus.
 
 ### Den neuen Lead qualifizieren
 
-1. Navigieren Sie im **Dynamics 365 Sales Hub**zu **Verkäufe** > **Leads**.
+1. Navigieren Sie im **Dynamics 365 Sales Hub** zu **Verkäufe** > **Leads**.
 1. Wählen Sie **Cameron Azadi** aus.
-1. Klicken Sie in der oberen Menüleiste auf die Schaltfläche **Qualifizieren**.
+1. Wählen Sie in der oberen Menüleiste die Schaltfläche **Qualifizieren** aus.
 1. Ein Dialogfeld wird geöffnet, um anzuzeigen, dass übereinstimmende Informationen gefunden wurden.  Verknüpfen Sie den Lead mit dem Microsoft-Konto und dem zuvor von Ihnen eingegebenen Kontakt „Cameron Azadi“.
-1. Klicken Sie auf **Weiter**.
+1. Wählen Sie **Weiter** aus.
 
 **Hinweis:** Der Lead geht in die Ausbauphase über.
 
@@ -65,14 +65,14 @@ lab:
 
 1. Navigieren Sie in **Dynamics 365 Sales Hub** zu **Verkäufe** > **Chancen**.
 1. Wechseln Sie die Ansicht, indem Sie auf das Dropdownmenü klicken und **Alle Chancen** auswählen.
-1. Klicken Sie auf **Mag unsere Xbox-Produkte**, um diese Gelegenheit für Cameron Azadi auszuwählen.
+1. Wählen Sie **Mag unsere Xbox-Produkte**, um diese Gelegenheit für Cameron Azadi auszuwählen.
 1. Beachten Sie, dass die im Lead-Formular erstellte Anlage und die Notizen auch im Chancen-Formular verfügbar sind. 
-1. Klicken Sie im Abschnitt**Zeitleiste** auf **+**, um eine **E-Mail** zu entwerfen und zu senden. Das E-Mail-Popup wird angezeigt.
+1. Klicken Sie im Abschnitt **Zeitleiste** auf **+**, um eine **E-Mail** zu entwerfen und zu senden. Das E-Mail-Popup wird angezeigt.
 1. Geben Sie im Feld **Betreff** **Xbox X-Series** ein.
 1. Geben Sie eine Nachricht ein, z. B. „Hallo Cameron, vielen Dank für dein Interesse an der Xbox X-Series. Wir freuen uns auf unser Treffen.“ 
 1. Optional können Sie aus dem Chancen-Datensatz oder den zugehörigen Datensätzen, z. B. durch Navigieren zum Kontaktdatensatz, im Hintergrund alle Informationen kopieren und in die E-Mail-Nachricht einfügen, ohne den Fokus zu verlieren und trotzdem Zeit zu sparen.
-1. Klicken Sie auf **Speichern**.
-1. Klicken Sie auf **Senden**.
+1. Wählen Sie **Speichern** aus.
+1. Wählen Sie **Senden** aus.
 
 
 

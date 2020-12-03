@@ -23,16 +23,16 @@ Um Ihnen bei der Auswahl des richtigen Status einer Anfrage zu helfen, hat Ihr A
 1. Geben Sie im Feld **Anfragetitel** den Text **Seahorse Smart Watch** ein.
 1. Klicken Sie im Feld **Kunde** auf den Kunden **Fabrikam** und wählen Sie einen vorhandenen Datensatz für das Konto aus.
 1. Geben Sie im Feld **Beschreibung** den Text **Problem mit der Smartwatch** ein.
-1. Klicken Sie auf die Registerkarte **Details**.
-1. Klicken Sie auf **Speichern**.
+1. Wählen Sie die Registerkarte **Details** aus.
+1. Wählen Sie **Speichern** aus.
 1. Um Ihr Gespräch mit dem Kunden nachzuverfolgen, klicken Sie im Abschnitt **Zeitachse** auf **+**, um Informationen und Aktivitäten hinzuzufügen.
-1. Klicken Sie auf **Notiz**.
+1. Wählen Sie **Notiz** aus.
 1. Geben Sie im Feld **Titel** den Text **Defekte Smartwatch** ein.
 1. Geben Sie im Feld **Notiz** dann den Text **Zur Reparatur schicken** ein.
 1. Klicken Sie auf **Notiz hinzufügen**. 
 14.	Um zu sehen, welche Art von Unterstützung Sie dem Debitor bieten sollten, klicken Sie auf die Schaltfläche **Berechtigungssuche**, und wählen Sie eine aktive Berechtigung aus.
  **Hinweis:** Wenn für den Kunden keine Berechtigung existiert, ist dies leer.
-1. Klicken Sie auf **Speichern**.
+1. Wählen Sie **Speichern** aus.
 
 ### Eine Lösung anhand ähnlicher Anfragen finden
 

@@ -13,33 +13,33 @@ Melden Sie sich mit Ihrer Windows-Live-ID bei Power Apps an. Wenn Sie noch nicht
 
 ## Anweisungen
 1. Greifen Sie auf das Power Platform Admin Center zu.
-12.	Klicken Sie auf **Umgebungen**.
-13.	Klicken Sie auf Ihre Test-CRM-Umgebung. 
-14.	Klicken Sie auf den Hyperlink ![Dynamics 365 Admin Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx?redirect=False0).
+12.	Wählen Sie **Umgebungen** aus.
+13.	Wählen Sie Ihre Test-CRM-Umgebung aus. 
+14.	Wählen Sie den Hyperlink ![Dynamics 365 Admin Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx?redirect=False0) aus.
 15.	Wählen Sie **GTLPowerApps** aus.
-16.	Klicken Sie auf **Öffnen**.
-17.	Klicken Sie auf **Neue App erstellen**.
-19.	Auf der Seite **Eine neue App erstellen** geben Sie die folgenden Details ein und klicken Sie dann **Fertig**:
+16.	Wählen Sie **Öffnen** aus.
+17.	Wählen Sie **Neue App erstellen** aus.
+19.	Auf der Seite **Eine neue App erstellen** geben Sie die folgenden Details ein und wählen Sie dann **Fertig** aus:
     - **Name:** Geben Sie **GuideToPowerApp** ein.
     - **Eindeutiger Name:** Standardmäßig verwendet der eindeutige Name den Namen, den Sie im Feld „Name“ ohne Leerzeichen angegeben haben und dem das Herausgeberpräfix und ein Unterstrich (_) vorangestellt sind.
     - **Beschreibung:** Geben Sie **GuideToPowerApp** ein.
-20.	Klicken Sie auf **Fertig**.
+20.	Wählen Sie **Fertig** aus.
 21.	Über den App-Designer fügen Sie Ihrer App Komponenten hinzu. Wählen Sie das Bleistift-Symbol auf der Schaltfläche **Siteübersicht** aus, um den Siteübersichts-Designer zu öffnen.
 22.	In dieser Power-App verwenden Sie die Entität „Konten“, um Debitorenkonten zu verwalten.
 22. Geben Sie auf der Registerkarte **Eigenschaften** als Bereichsname **Konten** ein.
 23.	Wählen Sie im Siteübersichts-Designer **Neuer Unterbereich** aus, wählen Sie dann im rechten Bereich die Registerkarte **Eigenschaften** aus und wählen Sie anschließend den Wert der folgenden Eigenschaften:
     - **Typ: Entität**
     - **Entität: Firma**  
-    - Klicken Sie auf **Speichern.** 
-24.	Klicken Sie auf **App-Designer**.
+    - Wählen Sie **Speichern** aus.
+24.	Wählen Sie **App-Designer** aus.
 25.	Wählen Sie auf der App-Designer-Canvas **Formulare** aus und dann im rechten Bereich unter der Gruppe **Hauptformulare** wählen Sie das Formular **Konto** aus.
-26.	Klicken Sie auf die Schaltfläche **Zurück**.
+26.	Wählen Sie die Schaltfläche **Zurück** aus.
 27.	Wählen Sie auf der App-Designers-Canvas **Ansichten** aus und wählen Sie dann die Ansichten **Aktive Konten**, **Alle Konten** und **Meine aktiven Konten** aus.
-28.	Klicken Sie auf die Schaltfläche **Zurück**.
+28.	Wählen Sie die Schaltfläche **Zurück** aus.
 29.	Wählen Sie auf der App-Designer-Canvas **Diagramme** aus und wählen Sie dann das **Diagramm „Konten nach Branchen“** aus.
-30.	Klicken Sie auf die Schaltfläche **Zurück**.
+30.	Wählen Sie die Schaltfläche **Zurück** aus.
 31.	Klicken Sie in der Symbolleiste des App-Designers auf **Speichern** und dann auf **Veröffentlichen**.
-32.	Klicken Sie auf **Wiedergeben**.
+32.	Wählen Sie **Wiedergeben** aus.
 34.	Überprüfen Sie die Ergebnisse und interagieren Sie mit Ihrer ersten modellgesteuerten Anwendung.
 35.	Probieren Sie es auf Ihrem mobilen Gerät aus, indem Sie die App „Dynamics 365 für Smartphones“ oder „Dynamics 365 für Tablets“ über den App Store Ihres Geräts installieren. Weitere Informationen: https://docs.microsoft.com/dynamics365/customer-engagement/mobile-app/install-dynamics-365-for-phones-and-tablets
 36.	Geben Sie die URL der Anwendung direkt in den Webbrowser Ihres Smartphones ein und folgen Sie den Anweisungen auf dem Bildschirm, um die App zu laden. 

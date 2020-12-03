@@ -9,10 +9,10 @@ lab:
 
 **Voraussetzungen:** Führen Sie die folgenden Aufgaben aus, bevor Sie die Schritte dieses Labs ausführen: 
 1. Wechseln Sie zu **Marketing** > **Dateien**.
-1. Klicken Sie auf **Neu**.
-1. Klicken Sie auf **Dateien hinzufügen**.
+1. Wählen Sie **Neu** aus.
+1. Wählen Sie **Dateien hinzufügen** aus.
 1. Laden Sie mindestens ein Bild von Ihrem Desktop hoch.
-1. Klicken Sie auf **Hochladen**.
+1. Wählen Sie **Hochladen** aus.
 1. Klicken Sie nach Abschluss des Uploads auf **Fertig.**
 
 ### Ansprechende E-Mails erstellen

@@ -12,7 +12,7 @@ lab:
 In **USMF** müssen Sie einen neuen Artikel für eine neue Gehäusekonfiguration erstellen, die Sie bei einem Anbieter erwerben können. 
 
 1. Wechseln Sie zu **Produktinformationsverwaltung** > **Produkte > Freigegebene Produkte**.
-1. Klicken Sie auf **Neu**. 
+1. Wählen Sie **Neu** aus. 
 1. Wählen Sie im Feld **Produkttyp** die Option **Artikel** aus.
 1. Wählen Sie im Feld **Produktuntertyp** die Option **Produkt** aus.
 1. Geben Sie im Feld **Produktnummer** die Nummer **GTL007** ein.
@@ -29,8 +29,8 @@ In **USMF** müssen Sie einen neuen Artikel für eine neue Gehäusekonfiguration
 1. Geben Sie im Feld **VK-Preis** **30,00** ein.
 1. Wählen Sie im Feld **Besteuerung von Verkäufen, Artikel-Mehrwertsteuergruppe** die Option **ALLE** (alle Mehrwertsteuercodes) aus.
 1. Wählen Sie im Feld **Besteuerung von Einkäufen, Artikel-Mehrwertsteuergruppe** die Option **ALLE** (alle Mehrwertsteuercodes) aus.
-1. Klicken Sie auf **OK**.
-1. Klicken Sie auf **Überprüfen**, um sicherzustellen, dass das Produkt vollständig abgeschlossen ist. Diese Schaltfläche befindet sich im Aktionsbereich „Produkt“.
+1. Wählen Sie **OK** aus.
+1. Wählen Sie **Überprüfen** aus, um sicherzustellen, dass das Produkt vollständig abgeschlossen ist. Diese Schaltfläche befindet sich im Aktionsbereich „Produkt“.
 1. Schließen Sie alle Seiten. 
 
 ### Erstellen von Produktmastern
@@ -38,7 +38,7 @@ In **USMF** müssen Sie einen neuen Artikel für eine neue Gehäusekonfiguration
 Im **USMF**-Unternehmen müssen Sie einen neuen Artikel (ein T-Shirt mit V-Ausschnitt) erstellen, um ihn kaufen zu können.  Dieser Artikel ist in den Größen S, M und L erhältlich und wird in den folgenden Farben angeboten: Schwarz und Rot.
 
 1. Wechseln Sie zu **Produktionsinformationsverwaltung** > **Produkte** > **Freigegebene Produkte**.
-1. Klicken Sie auf **Neu**.
+1. Wählen Sie **Neu** aus.
 1. Wählen Sie im Feld **Produkttyp** die Option **Artikel** aus.
 1. Wählen Sie im Feld **Produktuntertyp** die Option **Produktmaster** aus.
 1. Geben Sie im Feld **Produktnummer** die Nummer **GTLPM001** ein.
@@ -59,39 +59,39 @@ Im **USMF**-Unternehmen müssen Sie einen neuen Artikel (ein T-Shirt mit V-Aussc
 1. Wählen Sie im Feld **Besteuerung von Einkäufen, Artikel-Mehrwertsteuergruppe** die Option **ALLE** (alle Mehrwertsteuercodes) aus.
 1. Geben Sie im Feld **VK-Preis** **19,95** ein.
 1. Geben Sie im Feld **VK-Preis** **29,95** ein.
-1. Klicken Sie auf **OK**. **fehlender Teil davon**
+1. Wählen Sie **OK** aus.
 1. Schließen Sie alle Seiten.
 1. Wechseln Sie zu **Produktionsinformationsverwaltung** > **Produkte** > **Freigegebene Produkte**.
-1. Suchen Sie mit der Schnellfiltersuche nach Artikelnummer nach **GTLS001**.
-1. Wählen Sie den Menüpunkt **GTLS001** aus, um die Produktmasteraufzeichnung zu öffnen.
+1. Suchen Sie mit der Schnellfiltersuche nach Artikelnummer nach **GTLPM001**.
+1. Wählen Sie den Menüpunkt **GTLPM001** aus, um die Produktmasteraufzeichnung zu öffnen.
 1. Wählen Sie die Schaltfläche **Produktdimensionen** im Aktionsbereich **Produkt** aus.
 1. Wählen Sie die Registerkarte **Größen** aus.
 1. Wählen Sie **Größen für einen Produktmaster neu definieren** aus.
 1. Geben Sie im Feld **Größe** den Text **S** ein.
 1. Geben Sie im Feld **Name** den Text **S** ein.
 1. Geben Sie im Feld **Beschreibung** den Text **Größe S** ein.
-1. Klicken Sie auf **Neu**.
+1. Wählen Sie **Neu** aus.
 1. Geben Sie im Feld **Größe** den Text **M** ein.
 1. Geben Sie im Feld **Name** den Text **M** ein.
 1. Geben Sie im Feld **Beschreibung** den Text **Größe M** ein.
-1. Klicken Sie auf **Neu**.
+1. Wählen Sie **Neu** aus.
 1. Geben Sie im Feld **Größe** den Text **L** ein.
 1. Geben Sie im Feld **Name** den Text **L** ein.
 1. Geben Sie im Feld **Beschreibung** den Text **Größe L** ein.
 1. Wählen Sie die Registerkarte **Farben** aus.
-1. Klicken Sie in der Liste **Größen für einen Produktmaster definieren** auf **Neu**.
+1. Wählen Sie in der Liste **Größen für einen Produktmaster definieren Neu** aus.
 1. Geben Sie im Feld **Farbe** den Text **Schwarz** ein.
 1. Geben Sie im Feld **Name** den Text **Schwarz** ein.
 1. Geben Sie im Feld **Beschreibung** den Text **Schwarze** Farbe ein.
-1. Klicken Sie auf **Neu**.
+1. Wählen Sie **Neu** aus.
 1. Geben Sie im Feld **Name** den Wert **Rot** ein.
 1. Geben Sie im Feld **Beschreibung** den Text **Rote** Farbe ein.
-1. Klicken Sie auf **Speichern**.
+1. Wählen Sie **Speichern** aus.
 1. Schließen Sie das Formular.
 1. Wählen Sie die Schaltfläche **Freigegebene Produktvarianten** im Aktionsbereich **Produkt** aus.
 1. Wählen Sie **Variantenvorschläge** im Aktionsbereich **Produktvariante** aus.
-1. Klicken Sie auf **Alles auswählen**.
-1. Klicken Sie auf **Erstellen**.
+1. Wählen Sie **Alles auswählen** aus.
+1. Wählen Sie **Erstellen** aus.
 1. Schließen Sie alle Seiten.  
 
 ### Erstellen einer Bestellung
@@ -99,17 +99,17 @@ Im **USMF**-Unternehmen müssen Sie einen neuen Artikel (ein T-Shirt mit V-Aussc
 Bitte erstellen Sie eine Bestellung für Acme Office Supplies, die heute ausgeliefert werden soll. Artikel Nummer T0003 soll 5-mal an Standort 1 geliefert werden, der Schaumreaktionsstoff M1101 5-mal an das Quality Testing Center, 123 W. Cherry Street, Postleitzahl 83642.
 
 1. Wählen Sie **Beschaffung** > **Einkaufsbestellungen** > **Alle Einkaufsbestellungen** aus.
-1. Klicken Sie auf **Neu**.
+1. Wählen Sie **Neu** aus.
 1. **Anbieterkonto:** Wählen Sie **1001** (Acme Büromaterial) aus.
 1. **Lieferdatum:** Wählen Sie, falls erforderlich, im Feld **Lieferdatum** das aktuelle Datum aus. (Das sollte der Standardwert sein).
-1. Klicken Sie auf **OK**
+1. Wählen Sie **OK** aus.
 
 ### Artikel zur Einkaufsbestellung hinzufügen
 
 1. **Artikelnummer:** Wählen Sie **T0003** aus.
 1. **Menge:** Geben Sie **5** ein.
 1. **Einheit:** Geben Sie **Je** ein.
-1. Klicken Sie auf **Position hinzufügen**
+1. Wählen Sie **Position hinzufügen** aus.
 1. **Artikelnummer:** Wählen Sie **C0004** aus.
 1. **Menge:** Geben Sie **4** ein.
 1. **Einheit:** Geben Sie **Stk** ein.
@@ -121,16 +121,16 @@ Bitte erstellen Sie eine Bestellung für Acme Office Supplies, die heute ausgeli
 1. Ändern Sie die **Lieferadresse** auf **Contoso Entertainment System USA**.
 1. Wählen Sie im Inforegister **Bestellpositionen** die Position für den Artikel **C0004** aus.
 1. Wechseln Sie im Inforegister zu **Adresse**.  
-1. Klicken Sie auf die Schaltfläche **Adresse hinzufügen**, **(+)**, die sich direkt rechts neben dem Feld **Lieferadresse** befindet.
+1. Wählen Sie die Schaltfläche **Adresse hinzufügen** aus, **(+)**, die sich direkt rechts neben dem Feld **Lieferadresse** befindet.
 1. **Namen oder Beschreibung:** Geben Sie **Qualitätsprüfzentrum** ein.
 1. **Postleitzahl:** Geben Sie **83642** ein.
 1. **Straße:** Geben Sie **123 W. Cherry Street** ein.
-1. Klicken Sie auf **OK**.
-1. Klicken Sie auf **Speichern**.
+1. Wählen Sie **OK** aus.
+1. Wählen Sie **Speichern** aus.
 1. Klicken Sie im **Aktionsbereich** auf **Einkauf**.  
-1. Klicken Sie auf **Bestätigen**.
+1. Wählen Sie **Bestätigen** aus.
 1. Klicken Sie im **Aktionsbereich** auf **Empfangen**.
-1. Klicken Sie auf **Produktzugang**.
+1. Wählen Sie **Produktzugang** aus.
 1. Geben Sie im Feld **Produktzugang** die Produktzugangsnummer ein. Geben Sie zum Beispiel **PR123** ein.
 1. Wählen Sie **OK** aus, um den Produktzugang zu buchen.  
 1. Schließen Sie alle Seiten.  
@@ -140,20 +140,20 @@ Bitte erstellen Sie eine Bestellung für Acme Office Supplies, die heute ausgeli
 Diese Vorgehensweise zeigt das Erstellen eines Auftrags. Sie können diese Prozedur in dem Demodatenunternehmen USMF nutzen. Aufträge werden normalerweise von der Verkaufsauftragsverarbeitung erstellt.
 
 1. Gehen Sie zu **Vertrieb und Marketing** > **Verkaufsaufträge** > **Alle Verkaufsaufträge**.
-1. Klicken Sie auf **Neu**.
+1. Wählen Sie **Neu** aus.
 1. Wählen Sie im Feld **Debitorenkonto** die Dropdown-Schaltfläche aus, um die Suche zu öffnen.
 1. Wählen Sie in der Liste den Debitor **US-004** aus.
-1. Klicken Sie auf **OK**.
+1. Wählen Sie **OK** aus.
 1. Wählen Sie **Auftragsposition** aus.
-1. Klicken Sie auf **Dimensionen**.
+1. Wählen Sie **Dimensionen** aus.
 1. Wählen Sie in diesem Beispiel die Farb-, Standort- und Lagerortdimensionen aus. Die von Ihnen ausgewählten Dimensionen werden im Auftragsraster angezeigt. Wenn Sie möchten, dass Ihre Auswahl erhalten bleibt, setzen Sie die Option **Einstellungen speichern** auf **Ja**.
-1. Klicken Sie auf **OK**.
+1. Wählen Sie **OK** aus.
 1. Klicken Sie im Feld **Artikelnummer** auf die Dropdown-Schaltfläche, um die Suche zu öffnen.
 1. Wählen Sie für dieses Beispiel die Artikelnummer **T0004** aus.
 1. Wählen Sie im Feld **Farbe** die Dropdown-Schaltfläche aus, um die Suche zu öffnen.
 1. Suchen Sie in der Liste nach **Schwarz** und wählen Sie die Option aus.
 1. Geben Sie im Feld **Menge** den Wert **1** ein.
 1. Wählen Sie im **Aktionsbereich** **Verkaufsauftrag** aus.
-1. Klicken Sie auf **Summen**.
+1. Wählen Sie **Summen** aus.
 1. Auf der Seite Summen werden Details zum gesamten Auftrag angezeigt. Dies umfasst den Zwischensummenbetrag (eine Summe aller Nettobeträge, die um eventuelle Zeilenrabatte bereinigt sind), den Gesamtrechnungsbetrag (einen Zwischensummenbetrag, der um eventuelle Rabatte auf Auftragsebene, Gebühren und Umsatzsteuer bereinigt ist), die Kreditlimits des Debitors und mehr. Der Rechnungsbetrag ist der Betrag, der auf dem Rechnungsbeleg des Debitors angezeigt wird.
-1. Klicken Sie auf **OK**.  
+1. Wählen Sie **OK** aus.  

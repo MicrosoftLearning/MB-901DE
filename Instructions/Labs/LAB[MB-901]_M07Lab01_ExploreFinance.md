@@ -28,13 +28,13 @@ Navigieren Sie zu **Module > Demo-Daten**, und klicken Sie auf **Daten generiere
 
 2.  Wechseln Sie zu **Hauptbuch > Währungen > Wechselkurstypen**.
 
-3.  Klicken Sie auf **Neu**.
+3.  Wählen Sie **Neu** aus.
 
 4.  Geben Sie im Feld **Wechselkurstyp** „GTL-EXCH“ ein.
 
 5.  Geben Sie im Feld **Name** „Seahorse Exchange Rate“ ein.
 
-6.  Klicken Sie auf **Wechselkurse**.
+6.  Wählen Sie **Wechselkurse** aus.
 
 7.  Beachten Sie, dass keine Wechselkurse verfügbar sind.
 
@@ -44,11 +44,11 @@ Navigieren Sie zu **Module > Demo-Daten**, und klicken Sie auf **Daten generiere
 
 10. Wechseln Sie zu **Hauptbuch > Währungen > Wechselkursanbieter konfigurieren**.
 
-11. Klicken Sie auf **Neu**.
+11. Wählen Sie **Neu** aus.
 
 12. Wählen Sie **Zentralbank der Russischen Föderation** aus.
 
-13. Klicken Sie auf **OK**.
+13. Wählen Sie **OK** aus.
 
 14. Schließen Sie die Seite.
 
@@ -60,13 +60,13 @@ Navigieren Sie zu **Module > Demo-Daten**, und klicken Sie auf **Daten generiere
 
 18. Geben Sie im Feld **Wechselkursanbieter** **Zentralbank der Russischen Föderation** ein, oder wählen Sie dies aus.
 
-19. Klicken Sie auf **OK**.
+19. Wählen Sie **OK** auf.
 
 20. Wechseln Sie zu **Hauptbuch > Währungen > Wechselkurstypen**.
 
 21. Wählen Sie **GTL-EXCH** aus.
 
-22. Klicken Sie auf **Wechselkurse**.
+22. Wählen Sie **Wechselkurse** auf.
 
 23. Beachten Sie die importierten Werte.
 
@@ -76,27 +76,27 @@ Navigieren Sie zu **Module > Demo-Daten**, und klicken Sie auf **Daten generiere
 
 1.  Wechseln Sie zu **Kreditorenkonten > Bestellungen > Alle Bestellungen**.
 
-2.  Klicken Sie auf **Neu**.
+2.  Wählen Sie **Neu** aus.
 
 3.  Wählen Sie im Feld **Anbieterkonto** den Eintrag **1001 Acme Office Supplies** aus.
 
 4.  Wählen Sie im Feld **Lagerort** den Wert **11** aus.
 
-5.  Klicken Sie auf **OK**.
+5.  Wählen Sie **OK** aus.
 
 6.  Wählen Sie im Feld **Artikelnummer** den Artikel **1000 Surface Pro 128 GB** aus.
 
 7.  Klicken Sie im Aktionsbereich auf **Kaufen**.
 
-8.  Klicken Sie auf **Bestätigen**.
+8.  Wählen Sie **Bestätigen** aus.
 
 9.  Klicken Sie im Aktionsbereich auf **Empfangen**.
 
-10. Klicken Sie auf **Produktzugang**.
+10. Wählen Sie **Produktzugang** aus.
 
 11. Geben Sie im Feld **Produktzugang** die Zeichenfolge **GTL02020** ein.
 
-12. Klicken Sie auf **OK**.
+12. Wählen Sie **OK** aus.
 
 13. Schließen Sie alle Formulare.
 
@@ -146,4 +146,4 @@ Navigieren Sie zu **Module > Demo-Daten**, und klicken Sie auf **Daten generiere
     -  Um die Rechnung zu buchen, setzen Sie die Option auf **Ja**. Sie können die Rechnung
         drucken, ohne sie zu buchen.
 
-15. Klicken Sie auf **OK**.
+15. Wählen Sie **OK** aus.

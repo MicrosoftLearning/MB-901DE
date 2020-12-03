@@ -13,7 +13,7 @@ lab:
 
 1. Navigieren Sie zu **Systemverwaltung** > **Sicherheit** > **Benutzer zu Rollen zuweisen**.
 1. Wählen Sie in der Struktur den Knoten **Debitorenbuchhalter** aus.
-1. Klicken Sie auf **Benutzer manuell zuweisen**/**ausschließen**.
+1. Wählen Sie **Benutzer manuell zuweisen**/**ausschließen** aus.
 1. Wählen Sie einen Benutzer aus der Liste aus.
 1. Wählen Sie die Option **Von Rolle ausschließen** aus, um die ausgewählten Benutzer von der Rolle auszuschließen.
 1. Markieren Sie zum Entfernen von Ausnahmen die Benutzer, für die Sie die Ausnahmen entfernen möchten. Wählen Sie anschließend **Status zurücksetzen** aus. 
@@ -23,7 +23,7 @@ lab:
 **Szenario:** Die Personalabteilung der USMF hat eine Regelung zur Aufgabentrennung für **Zugriff auf Arbeitsbereich Vergütung** (erste Aufgabe) und **Produktionserfassung genehmigen** (zweite Aufgabe) beantragt. Als Systemadministrator müssen Sie die Regel erstellen.
 
 1. Wechseln Sie zu **Systemverwaltung** > **Sicherheit** > **Aufgabentrennung** > **Aufgabentrennungsregeln**.
-1. Klicken Sie auf **Neu**.
+1. Wählen Sie **Neu** aus.
 1. Geben Sie im Feld **Name** einen Namen für die Regel ein.
 1. Klicken Sie im Feld **Erste Aufgabe** auf die Dropdown-Schaltfläche, um die Suche zu öffnen.
 1. Suchen Sie in der Liste die erste Aufgabe, die von der Regel gesteuert wird, und wählen Sie diese aus.
@@ -36,4 +36,4 @@ lab:
 1. Geben Sie im Feld **Sicherheitsausgleich** einen Wert ein.
 1. Geben Sie eine Beschreibung der Maßnahmen ein, die Sie ergreifen, um das Sicherheitsrisiko zu begrenzen. 
 Sie können das Risiko beispielsweise durch detailliertere Überprüfungen des Prozesses, durch eine monatliche Überprüfung durch das Management oder durch die gemeinsame Nutzung von Ressourcen mit anderen Abteilungen verringern.
-1. Klicken Sie auf **Speichern**.
+1. Wählen Sie **Speichern** aus.
